@@ -1,8 +1,8 @@
 //Bauplan für Schülerobjekte
 class Schueler{
 
-    int groesse;
-    String name;
+    private int groesse;
+    private String name;
 
     //Konstruktor
     public Schueler(){
@@ -18,6 +18,11 @@ class Schueler{
         return name;
 
     }
+
+    public int getGroesse() {
+        return groesse;
+    }
+
 
 
 
