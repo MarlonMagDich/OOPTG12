@@ -5,3 +5,4 @@
 3. Stellen sie sicher, dass die Attribute vor unberechtigten Zugriff beschützt sind. -> Sichtbarkeit auf Private setzen.
 4. Alle Attribute sollen lesbar sein. -> Getter erstellen
 5. Das Kürzel muss immer genau 2 Zeichen lang sein. -> Set Methode / Setter erstellen
+6. Ergänzen sie einen Konstruktor, der alle Attribute korrekt intialisiert.
