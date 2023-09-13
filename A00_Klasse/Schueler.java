@@ -1,3 +1,4 @@
+//Bauplan für Schülerobjekte
 class Schueler{
 
     int groesse;
@@ -15,7 +16,7 @@ class Schueler{
     public String getName(){
 
         return name;
-        
+
     }
 
 
