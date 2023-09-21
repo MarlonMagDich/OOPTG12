@@ -42,4 +42,12 @@ public class Schueler {
 
 5. Die Daten der Schueler sollen auf der Konsole ausgegeben werden. Überschreiben Sie die `toString()`-Methode aus der Klasse `Object`.
 ```java
+//In Schueler
+    @Override
+    public String toString() {
+        return "Name=" + name + ", Vorname=" + vorname + ", Email=" + email;
+    }
+//In ErzeugeSchueler
+        System.out.println(s1.toString());
+        System.out.println(s2.toString());
 ```    
