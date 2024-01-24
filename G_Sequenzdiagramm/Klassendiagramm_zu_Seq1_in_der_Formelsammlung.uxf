@@ -1,0 +1,20 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>170</x><y>20</y><w>210</w><h>190</h></coordinates><panel_attributes>Klasse1
+-
+
+-
++op1()
++op3():txt
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>160</x><y>580</y><w>210</w><h>190</h></coordinates><panel_attributes>Klasse2
+-
+
+-
++op2():txt
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>250</x><y>200</y><w>70</w><h>400</h></coordinates><panel_attributes>lt=&lt;-&gt;
+
+r2=objekt2
+m2=1
+
+
+r1=objekt1
+m1=1</panel_attributes><additional_attributes>10;10;10;380</additional_attributes></element></diagram>
